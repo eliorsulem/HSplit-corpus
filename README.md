@@ -12,6 +12,8 @@ If you use the corpus, please cite the following paper:
 Gold-standard Sentence Splitting Corpus composed by the generations made by 4 annotators, given [the complex side of the test corpus of Xu et al., 2016](https://github.com/cocoxu/simplification), following the sentence splitting guidelines.
 HSplit 1 and 2 correspond to Set 1 guidelines. HSplit 3 and 4 correspond to Set 2 guidelines.
 
+Uniform tokenization and truecasing styles are obtained using the Moses toolkit (Koehn et al., 2007).
+
 **License**
 
 [Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/)
