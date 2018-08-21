@@ -1,4 +1,4 @@
-# sentence-splitting-corpus
+# HSplit-corpus
 Gold-Standard Sentence Splitting Corpus
 
 If you use the corpus, please cite the following paper:
