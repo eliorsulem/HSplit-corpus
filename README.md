@@ -14,6 +14,10 @@ HSplit 1 and 2 correspond to Set 1 guidelines. HSplit 3 and 4 correspond to Set 
 
 Uniform tokenization and truecasing styles are obtained using the Moses toolkit (Koehn et al., 2007).
 
+**./HSplit_human_evaluation**
+
+Human evaluation scores given for the 4 elicitation questions described in the paper. Each HSplit corpus is scored by 3 annotators.
+
 **License**
 
 [Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/)
