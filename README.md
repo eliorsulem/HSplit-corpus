@@ -18,6 +18,7 @@ Uniform tokenization and truecasing styles are obtained using the Moses toolkit 
 
 Human evaluation scores given for the 4 elicitation questions described in the paper. Each HSplit corpus is scored by 3 annotators.
 The human evaluation concerns the first 70 sentences of HSplit. The scores appear in the ods files. The corresponding sentences appear in the txt files.
+
 The evaluation scores for the simplification systems mentioned in the paper can be found at https://github.com/eliorsulem/simplification-acl2018.
 
 **License**
